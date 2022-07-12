@@ -1,0 +1,48 @@
+html {font-size: 10px; 
+    font-family: "Inconsolata", monospace; 
+    background-color: rgb(255, 189, 189);
+  }
+body {
+  width: 1500px;
+  margin: 0 auto;
+  background-color: rgb(180, 179, 241);
+  padding: 0 20px 20px 20px;
+  border: 10px solid black;
+}
+  h1 {
+  font-size: 100px;
+  text-align: center;
+  margin: 0;
+  padding: 20px 0;
+  color: aliceblue;
+  text-shadow: 3px 3px 3px black;
+} 
+h2 {
+  font-size: 40px;
+  line-height: 2;
+  letter-spacing: 1px;
+  text-shadow: 1px 1px 3px black;
+  text-align: center;
+}
+img {
+  display: block;
+  margin: 0 auto;
+  border: 5px solid black;
+}
+h3 {
+  font-size: 40px;
+  line-height: 2;
+  letter-spacing: 1px;
+  text-shadow: 1px 1px 3px black;
+}
+li {
+  font-size: 40px;
+  color: black;
+  text-shadow: 1px 1px 4px rgb(247, 134, 134);
+}
+p {
+  font-size: 30px;
+  line-height: 2;
+  letter-spacing: 1px;
+  color: black;
+}
